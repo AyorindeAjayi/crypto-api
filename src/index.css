@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(145, 146, 226);
+}
+
+h1 {
+  color: white;
+}
+
+.coinSearch {
+  text-align: center;
+}
+
+.coin {
+  text-align: center;
+}
+
+img {
+  height: 50px;
+  color: transparent;
+  color-adjust: grey;
+  filter: grayscale(100%);
+}
+
+.fff {
+  text-align: center;
+}
